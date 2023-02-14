@@ -1,5 +1,6 @@
 import ListMovies from './modules/ListMovies.js';
 import './style.css';
+import './homePage.css';
 
 const listMovies = new ListMovies();
 
