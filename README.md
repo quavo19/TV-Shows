@@ -100,7 +100,7 @@ To run tests, run the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [x] **Comment section**
-- [ ] **Search bar**
+- [x] **Search bar**
 - [ ] **List of episodes**
 - [x] **More Personnalized UI**
 
